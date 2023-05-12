@@ -91,7 +91,11 @@ body{
 .block-item.desc{
     font-weight: 400;
 }
+.titleee{
 
+    font-size: 0.8rem;
+
+}
 .next-slide-down{
     position: absolute;
     bottom: 1rem;
